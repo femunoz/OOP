@@ -1,5 +1,4 @@
-# OOP
-Curso de Programación Orientada a Objetos
+# Curso de Programación Orientada a Objetos - OOP
 
 ### Horario de clases:
 - Martes 8:30 - 10:15hrs.
@@ -19,7 +18,7 @@ Introducir conceptos del paradigma Orientado a Objetos que permitan a las y los 
 - Aplicar estos conceptos mediante la codificación en Python 3.
 - Resolver problemas utilizando este paradigma .
 
-## APUNTES
+### APUNTES
 
 <!--
 Open Github notebook whatever you want to work in Google Colab. Change the domain from 'github.com' to **'githubtocolab.com'**. The notebook will open in Colab.
