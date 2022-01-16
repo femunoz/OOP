@@ -18,3 +18,7 @@ Introducir conceptos del paradigma Orientado a Objetos que permitan a las y los 
 - Conocer conceptos de programación orientada a objetos.
 - Aplicar estos conceptos mediante la codificación en Python 3.
 - Resolver problemas utilizando este paradigma .
+
+## APUNTES
+
+1. Funciones 
