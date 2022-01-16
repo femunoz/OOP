@@ -1,11 +1,10 @@
 # OOP
 Curso de Programación Orientada a Objetos
 
-### Horariodeclases:
+### Horario de clases:
 - Martes 8:30 - 10:15hrs.
 - Jueves 10:35-11:20hrs.
 
-### HorariodeAtencióndealumnas/os:
-- Miércoles 16:35-17:35,previo acuerdo por felipe.munoz@ulagos.cl
-- Encasodetenerchoquedehorarioconelhorariodeatención,favor
-coordinar con tiempo por correo para una sesión virtual.
+### Horario de atención de alumnas/os:
+- Jueves 16:30 - 17:30 hrs., previo acuerdo por felipe.munoz@ulagos.cl
+- En caso de tener choque de horario con el horario de atención, favor coordinar con tiempo por correo.
