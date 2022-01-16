@@ -25,6 +25,10 @@ Open Github notebook whatever you want to work in Google Colab. Change the domai
 -->
 
 1. [Funciones](https://githubtocolab.com/femunoz/OOP/blob/e9be70badd8e81cdfdd0653f92c2f9e049d09048/1.%20Funciones.ipynb)
-<!-- Referencia: https://studio.code.org/s/csp4-2021
+
+<!-- Referencias:
+
+https://studio.code.org/s/csp4-2021
 https://curriculum.code.org/algebra/courseA/
+
 -->
