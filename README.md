@@ -25,4 +25,10 @@ Introducir conceptos del paradigma Orientado a Objetos que permitan a las y los 
 Open Github notebook whatever you want to work in Google Colab. Change the domain from 'github.com' to 'githubtocolab.com'. The notebook will open in Colab.
 -->
 
-1. Funciones https://githubtocolab.com/femunoz/OOP/blob/e9be70badd8e81cdfdd0653f92c2f9e049d09048/1.%20Funciones.ipynb
+1. Funciones 
+
+
+
+3. 
+4. 
+5. [Abrir en Google Colab](https://githubtocolab.com/femunoz/OOP/blob/e9be70badd8e81cdfdd0653f92c2f9e049d09048/1.%20Funciones.ipynb)
